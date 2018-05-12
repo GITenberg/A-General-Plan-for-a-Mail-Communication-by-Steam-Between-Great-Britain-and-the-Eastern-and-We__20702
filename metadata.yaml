@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9464'
     url: http://www.gutenberg.org/2009/agents/9464
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20702#A-General-Plan-for-a-Mail-Communication-by-Steam-Between-Great-Britain-and-the-Eastern-and-We_
 gutenberg_issued: '2007-02-27'
 gutenberg_type: Text
 identifiers:
