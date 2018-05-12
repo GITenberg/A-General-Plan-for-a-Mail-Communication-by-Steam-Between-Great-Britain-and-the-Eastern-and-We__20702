@@ -1,0 +1,32 @@
+_repo: A-General-Plan-for-a-Mail-Communication-by-Steam-Between-Great-Britain-and-the-Eastern-and-We__20702
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacQueen, James
+    aliases:
+    - M'Queen, James
+    - McQueen, James
+    birthdate: 1778
+    deathdate: 1870
+    gutenberg_agent_id: '9464'
+    url: http://www.gutenberg.org/2009/agents/9464
+description: ''
+gutenberg_issued: '2007-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20702'
+  lccn: '59058827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Postal service -- Great Britain -- Colonies'
+- !lcc 'HE'
+- !lcsh 'Mail steamers -- Great Britain'
+title: A General Plan for a Mail Communication by Steam, Between Great Britain and
+  the Eastern and Western Parts of the World
+url: http://www.gutenberg.org/ebooks/20702
